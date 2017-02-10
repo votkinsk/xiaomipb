@@ -227,6 +227,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-e",
           "_params": {
             "labelsColor": "#232323",
@@ -272,12 +277,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
         },
         {
           "_styles": {
@@ -295,7 +295,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -356,7 +356,7 @@
           "title1": "Высокий трафик<br>первая линия",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Торговый центр расположен в самой оживленной части города,<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -371,7 +371,7 @@
           "title2": "Высокая покупательская активность",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": ".Рядом находяться: центральный рынок, центральный автовокзал, бизнес цнтры, торговые цетры, гипермаркеты, рестораны.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -386,7 +386,7 @@
           "title3": "Все коммуникации включены в стоимость аренды",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Имеется возможность подключения к интернету.<br>Свет и вода включены в стоимость.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -401,7 +401,7 @@
           "title4": "Имеется большая парковка и место под Вашу рекламу<br><br>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -436,6 +436,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-d",
           "_params": {
             "labelsColor": "#232323",
@@ -481,12 +486,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
         },
         {
           "_tags": [
