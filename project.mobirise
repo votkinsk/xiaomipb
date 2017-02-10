@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 15,
+    "uniqCompNum": 23,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/entypo-23020-128x128-1.png",
     "noImageResize": ""
