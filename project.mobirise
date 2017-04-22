@@ -513,9 +513,9 @@
           },
           "title": "ЗАКАЗАТЬ ПРАЗДНИК/ УЗНАТЬ ПОДРОБНЕЕ",
           "form": {
-            "action": "vostroknutov99@mail.ru",
+            "action": "st.nekita@yandex.ru",
             "alerts": {
-              "success": ""
+              "success": "Ваше сообщение успешно отправлено, наш менеджер свяжется с Вами в ближайшее время."
             },
             "fields": {
               "name": {
