@@ -521,7 +521,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Имя"
+                "customTitle": "Имя*"
               },
               "email": {
                 "title": "Email",
