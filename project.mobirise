@@ -115,7 +115,7 @@
           },
           "title": "Enjoy event<br>Ведущий на Ваш праздник<br>",
           "text": "в Санкт - Петербурге",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ ПРАЗДНИК</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box4-5\" data-toolbar=\"-mbrBtnMove\">СОСТАВИТЬ СЦЕНАРИЙ</a>"
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#form1-9\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ ПРАЗДНИК</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box4-5\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ СЦЕНАРИЙ</a>"
         },
         {
           "_inherit": "msg-box5",
