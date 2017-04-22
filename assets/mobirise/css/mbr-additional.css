@@ -1,55 +1,54 @@
-@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
-
-
-#menu-m .navbar-toggler {
-  color: #fbfbfb;
-}
-#menu-m .nav-link {
-  font-size: 25px;
-}
-#menu-m .nav-item .btn {
-  font-family: 'Alegreya Sans', sans-serif;
-  font-size: 14px;
-}
-#menu-m .navbar-brand {
-  font-size: 30px;
+#header1-0 .btn {
+  font-size: 20px;
 }
 #header1-0 H1 {
+  font-size: 36px;
+}
+#msg-box4-9 .mbr-header__text {
   color: #ffffff;
 }
-#header1-0 P {
+#msg-box4-9 .mbr-header__subtext {
   color: #ffffff;
-  font-size: 25px;
 }
-#msg-box4-5 .mbr-section-title I {
-  text-align: center;
+#msg-box4-9 .mbr-article {
+  color: #ffffff;
 }
-#msg-box4-5 small {
+#msg-box4-9 .mbr-article P {
   font-size: 20px;
 }
-#msg-box4-x small {
-  text-align: left;
-  font-size: 20px;
-}
-#msg-box4-7 small {
-  font-size: 20px;
-}
-#msg-box2-o H2 {
-  font-family: 'Playfair Display', sans-serif;
-}
-#header3-u H3 {
+#header3-a H3 {
   text-align: center;
 }
-#features1-e H4 {
-  text-align: right;
+#features1-2 .mbr-section__col .mbr-header__text {
+  font-size: 20px;
 }
-#form1-9 .mbr-section-title {
-  color: #ffffff;
-}
-#form1-12 .mbr-section-title {
-  color: #ffffff;
-}
-#content5-1a .mbr-section-title {
+#header3-7 H3 {
   text-align: center;
+}
+#features1-6 .mbr-section__col .mbr-header__text {
+  font-size: 20px;
+}
+#msg-box2-b .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-b .mbr-article {
+  color: #252525;
+}
+#ext_menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #cccccc;
+}
+#ext_menu-d .mbr-navbar__section {
+  background: #cccccc;
+}
+#ext_menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-d .mbr-navbar__items a {
+  font-size: 14px;
+}
+#content4-j P {
+  color: #000000;
 }
