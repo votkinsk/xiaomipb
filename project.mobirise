@@ -10,7 +10,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 20,
     "versionPublish": "3.11.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/entypo-e4ae0-512-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
