@@ -9,7 +9,11 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 20,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -28,6 +32,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px"
+            },
+            "H1": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -50,15 +62,7 @@
           },
           "title": "Xiaomi Mi 10400mAh Power Bank/внешний аккумулятор<br>Всего за 1199 рублей.",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#form1-3\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#msg-box4-9\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "20px"
-            },
-            "H1": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#form1-3\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#msg-box4-9\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ</a>"
         },
         {
           "_tags": [
@@ -186,23 +190,28 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header3-a",
           "title": "ПОЧЕМУ ИМЕННО Xiaomi Mi 10400mAh",
           "_params": {
             "showMeta": false
           },
-          "meta": "",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "meta": ""
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features1-2",
           "_params": {
             "paddingTop": 3,
@@ -365,29 +374,24 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header3-7",
           "title": "ДОСТАВКА И ОПЛАТА",
           "_params": {
             "showMeta": false
           },
-          "meta": "",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "meta": ""
         },
         {
           "_tags": [
@@ -414,6 +418,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features1-6",
           "_params": {
             "paddingTop": 3,
@@ -580,12 +589,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box1",
@@ -655,7 +659,7 @@
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "showButtons": true
           },
@@ -743,6 +747,11 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "content4-j",
           "_params": {
             "paddingTop": 3,
@@ -889,12 +898,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         }
       ]
     }
